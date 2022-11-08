@@ -52,10 +52,8 @@
  </h2>
 
 <p>
-  <h3>Files with the task completed:<a href="Task_2.js"></h3>
+  <h3>File with the task completed:<a href="https://github.com/M-Anna-V/JS_basics_HW/blob/main/Task%20_2.js"> Task_2.js</h3>
 </p>
-
-
 
 <p>1. Создать переменную “item_1”</p>
  <pre>
