@@ -2,7 +2,7 @@
   <div align="center">Task 1</div>
  </h2>
 <p>
-  <h3>Files with the task completed:<a href="https://github.com/M-Anna-V/JS_basics_HW/blob/main/HW%20Javascript%20from%20Lera%20final.js"> Task_1.js</h3>
+  <h3>File with the task completed:<a href="https://github.com/M-Anna-V/JS_basics_HW/blob/main/Task%20_1.js"> Task_1.js</h3>
 </p>
 <p>1. Создать переменную a</p>
 
